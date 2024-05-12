@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T03:21:49.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.0" etag="pSOzElA6IJDwLfnFNPVF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T03:22:08.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="TEMWxPh7pVEKFj37uw8C" version="24.4.0" type="github">
   <diagram name="Página-1" id="ShfQZtE3lnxqKdywChu-">
-    <mxGraphModel>
+    <mxGraphModel dx="949" dy="-5907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PFcVlR4L90_-gMsJ-3gt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="7140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFcVlR4L90_-gMsJ-3gt-3" target="PFcVlR4L90_-gMsJ-3gt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-3" value="int number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="7190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFcVlR4L90_-gMsJ-3gt-6" target="PFcVlR4L90_-gMsJ-3gt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFcVlR4L90_-gMsJ-3gt-6" target="PFcVlR4L90_-gMsJ-3gt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-6" value="number==11235813" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="99" y="7260" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFcVlR4L90_-gMsJ-3gt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.75" y="7390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-8" value="devuelve&amp;nbsp;&lt;div&gt;Se encontró a Fibonacci&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308" y="7275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFcVlR4L90_-gMsJ-3gt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.75" y="7420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-10" value="devuelve&amp;nbsp;&lt;div&gt;Esto no es Fibonacci&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="7420" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-11" value="si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234.12" y="7275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-12" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="7360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-13" value="INICIO 11" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="7060" width="100" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="PFcVlR4L90_-gMsJ-3gt-14" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="7390" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
