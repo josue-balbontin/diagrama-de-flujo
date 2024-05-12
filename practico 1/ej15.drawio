@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T03:24:25.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.0" etag="ewJVDEyHcLWOZo-zSoCI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T03:25:05.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lGN86fy4uj-EcA4rLxpl" version="24.4.0" type="github">
   <diagram name="Página-1" id="dRENC_zRBWrSrOlwzqQq">
-    <mxGraphModel>
+    <mxGraphModel dx="781" dy="-10778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-23" target="WiykAJ--mT6-iN4-QPUB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-23" value="INICIO 15" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="11700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-25" target="WiykAJ--mT6-iN4-QPUB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-25" value="int a, int b, int c,int d=a," style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="11820" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-27" target="WiykAJ--mT6-iN4-QPUB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-27" value="mostrar&lt;div&gt;los valores son: a= a&amp;nbsp; b= b y c = c&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294.38" y="11930" width="151.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-29" target="WiykAJ--mT6-iN4-QPUB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-29" value="mostrar&lt;div&gt;premutamos : a =&amp;gt;b,&amp;nbsp;&lt;/div&gt;&lt;div&gt;b=&amp;gt;c,c=&amp;gt;a&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="12020" width="150.01" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-31" target="WiykAJ--mT6-iN4-QPUB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-31" value="&lt;div&gt;a=c&lt;/div&gt;&lt;div&gt;&amp;nbsp;c=b&lt;/div&gt;&lt;div&gt;&amp;nbsp;b=d&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309.005" y="12140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiykAJ--mT6-iN4-QPUB-33" target="WiykAJ--mT6-iN4-QPUB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-33" value="mostrar&lt;div&gt;Los valores despues de la permutacion son: a =&lt;br&gt;&lt;/div&gt;&lt;div&gt;a b= b c=c&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="12230" width="271" height="115.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WiykAJ--mT6-iN4-QPUB-34" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306.25" y="12420" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
